@@ -1,0 +1,10 @@
+,layer_name,layer_color,1x1_3024,1x2_3023,2x4_3020,2x2_3022,total
+0,layer2_shallowSea,blue,800.0,206.0,149.0,90.0,1245.0
+1,layer2_land,light gray,692.0,159.0,427.0,94.0,1372.0
+2,layer3_hk_1,green,501.0,135.0,304.0,77.0,1017.0
+3,layer3_hk_2,bright green,210.0,43.0,44.0,39.0,336.0
+4,layer3_hk_3,lime,64.0,19.0,4.0,6.0,93.0
+5,layer3_hk_4,yellow,16.0,4.0,0.0,1.0,21.0
+6,layer4_built_1,orange,203.0,49.0,16.0,18.0,286.0
+7,layer4_built_2,orange,33.0,5.0,0.0,2.0,40.0
+8,layer4_built_3,orange,2.0,0.0,0.0,0.0,2.0
